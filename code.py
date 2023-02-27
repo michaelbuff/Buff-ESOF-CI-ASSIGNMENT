@@ -6,9 +6,3 @@ def test_add():
     assert add("space", "ship") == "spaceship"
 
 
-
-def main():
-    test_add()
-
-if __name__ == "__main__":
-    main()
