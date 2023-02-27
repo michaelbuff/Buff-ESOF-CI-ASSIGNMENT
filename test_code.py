@@ -8,7 +8,7 @@ def test_add():
 
 
 def sub(a,b):
-    return b-a 
+    return a-b 
 
 
 def test_sub():
