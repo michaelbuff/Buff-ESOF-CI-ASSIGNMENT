@@ -6,3 +6,11 @@ def test_add():
     assert add("space", "ship") == "spaceship"
 
 
+
+def sub(a,b):
+    return b-a 
+
+
+def test_sub():
+    assert sub(3,2) == 1
+    
